@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #4d4d4d;
+}
+.splash {
+  padding: 5%;
+  text-align: center;
+  color: #e67300;
+  margin-top: 20%;
+  font-size: 70px;
+}
+.animation-preload {
+  border-radius: 50%;
+  width: 70px;  
+  height: 70px; 
+  border-top: 2px solid #808080;
+  border-bottom: 1px solid #DCDCDC;
+  animation: clockwiseSpin 2s;
+  margin-left: 48%
+}
+@keyframes clockwiseSpin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg);}
+}
+@media screen and (max-width: 360px){
+  .splash { margin-top: 50%;
+  }
+}

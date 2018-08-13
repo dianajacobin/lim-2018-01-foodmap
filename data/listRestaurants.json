@@ -1,0 +1,116 @@
+[
+  {
+    "id": "1",
+    "name": "Maido",
+    "description": "Cocina Peruana Japonesa",
+    "ranking": "4.7",
+    "direction": "Calle San Martin 399, Miraflores 15074",
+    "phone": "(01) 4462512",
+    "img": "http://www.maido.pe/img/logo_phone.png",
+    "platos":[
+      "https://restorando-res.cloudinary.com/image/upload/c_fill,f_auto,g_auto,h_174,w_305/v1/restaurant_photos/t//4283/59821/restaurante_maido_miraflores_suchi_tierra.jpg",
+      "http://img.itdg.com.br/tdg/images/blog/uploads/2017/05/shutterstock_160870697.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/08/d2/2a/76/frejoles-regionales.jpg",
+      "https://cde.3.elcomercio.pe/ima/0/1/0/5/4/1054026/558x367.jpg"
+    ],
+    "punto":{
+      "type" :"point",
+      "coordinates": [-77.0305605,-12.1254766]
+    }
+  },
+  {
+    "id": "2",
+    "name": "Central",
+    "description": "Cocina Peruana Contenporaneo",
+    "ranking": "4.5",
+    "direction": "Lima, Av. Pedro de Osma 301, Barranco 15063",
+    "phone": "(01) 2428515",
+    "img": "https://www.mesa247.pe/archivos/cliente-central/thumbs/central-logo_side.jpg",
+    "platos":[
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvsqefleCwNbsaJmHXu14MErWp4UEiYhoX3f5BeJ7ce1PpEwJw",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAMxZICQ3HmAe7JPkPA2kMW-o1-XF0fDPOCRLOVi24TJYdbCCe",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgNa3DVKN-1__a37dG_JTUgjv0uBDoAk-4LfMHREVvDFy1iToe",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vusXz3no6xh5n8Kdyag4k8cVZC1sFqgei0YO9zRJkzWegd6a"
+    ],
+    "punto":{
+      "type" :"point",
+      "coordinates": [-77.0247107,-12.1528184]
+    }
+  },
+  {
+    "id": "3",
+    "name": "Isolina Taberna Peruana",
+    "description": "Cocina Peruana - Criolla Bar - Tapas y Piqueos",
+    "ranking": "4.6",
+    "direction": "Av San Martin 101, Lima 15063",
+    "phone": "(01) 2475075",
+    "img": "https://www.mesa247.pe/archivos/isolina-taberna/thumbs/isolina-logo_fb.jpg",
+    "platos":[
+      "https://isolina.pe/web003/wp-content/uploads/2018/05/inicio-03-la-carta-isolina.jpg",
+      "https://isolina.pe/web003/wp-content/uploads/2018/05/inicio-04-horarios-isolina.jpg",
+      "https://isolina.pe/web003/wp-content/uploads/2018/05/inicio-01-nosotros-isolina.jpg",
+      "https://isolina.pe/web003/wp-content/uploads/2018/05/inicio-02-el-chef-isolina.jpg"
+    ],
+    "punto":{
+      "type" :"point",
+      "coordinates": [-77.0245395,-12.1475419]
+    }
+  },
+  {
+    "id": "4",
+    "name": "Restaurante Maras",
+    "description": "Cocina Peruana",
+    "ranking": "4.6",
+    "direction": "Lima, Av. Pedro de Osma 301, Barranco 15063",
+    "phone": "(01) 2015000",
+    "img": "http://1.bp.blogspot.com/-lbZliYu9y2M/UKAm5poOsQI/AAAAAAAAJ5M/aMPZ2yFRGcs/s1600/maras.jpg",
+    "platos":[
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-3wMYzc93iwr-HG4jratAYxNkrUKHaFVHePhp61oHmb1n-CRH",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSemVE3lYHS0V6VOQg2Oby-zbq4lE-2DN7DJMrPyc_MwUNEYeNq",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7qTmYUEg28TnF-fsl6vnWYHJU3KmBAcg0QQtlZqhE4f-5mmvY",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjx-iOmjbHVjcVKoooy5EbEvU-ZpkY5QW1MHUP1HWrXpsocL5l"
+    ],
+    "punto":{
+      "type" :"point",
+      "coordinates": [-77.0270529,-12.0918613]
+    }
+  },
+  {
+    "id": "5",
+    "name": "La Rosa Nautica",
+    "description": "Cocina Peruana",
+    "ranking": "4.6",
+    "direction": "Espigón Miraflores, Lima 18, Circuito de Playas, Miraflores",
+    "phone": "(01) 4450149",
+    "img": "https://media-cdn.tripadvisor.com/media/photo-s/04/0d/cc/36/la-rosa-nautica.jpg",
+    "platos":[
+      "http://du4zwgdg3nwxa.cloudfront.net/empresas/imagenes/d/dg/dghxkwww-1370890287-bg.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/53VGw1SR1iP6ivXPJPuZag/ls.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP2XpsVfNgTbjPbCEx4gbeD05NXB7uUOtT4f8zVmpGstZdv4qt",
+      "https://traveltoeat.com/wp-content/uploads/2016/04/Photo-20160401101527837.jpg"
+    ],
+    "punto":{
+      "type" :"point",
+      "coordinates": [-77.0365416,-12.1304874]
+    }
+  },
+  {
+    "id": "6",
+    "name": "La Mar",
+    "description": "Cevicheria Peruana",
+    "ranking": "4.5",
+    "direction": "Av Mariscal La Mar 770, Miraflores 15074",
+    "phone": "(01) 4213365",
+    "img": "https://pbs.twimg.com/profile_images/540521888795983873/eH5Zqwvm_400x400.jpeg",
+    "platos":[
+      "http://www.lamarcebicheria.com/sites/default/files/lamar2_0.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1OceoKqX03P32AdIHnOrR8MENYe7iU6OtDw-dehT0MrFzo52",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP2XpsVfNgTbjPbCEx4gbeD05NXB7uUOtT4f8zVmpGstZdv4qt",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxgbTb1SxiQdHRzbcBNDUGSzBwRv3e2CU88OCWg93yyi5T7bxp"
+    ],
+    "punto":{
+      "type" :"point",
+      "coordinates": [-77.0475897,-12.113322]
+    }
+  }
+]
